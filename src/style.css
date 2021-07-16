@@ -91,3 +91,28 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+
+@media (max-width: 576px) {
+  h1 {
+    font-size: 48px;
+    line-height: 1.5;
+  }
+
+  h2 {
+    font-size: 32px;
+  }
+
+  .col-6 {
+    width: 100%;
+  }
+
+  .primary-link {
+    display: block;
+    text-align: center;
+    margin: 20px;
+  }
+
+  #contact {
+      margin-bottom: 80px;
+  }
+}
