@@ -117,10 +117,14 @@ p {
   }
 
   #contact {
-      margin-bottom: 80px;
+    margin-bottom: 80px;
   }
 
   .about-paragraphs p {
-      margin: 20px;
+    margin: 20px;
+  }
+
+  .navbar-brand {
+    margin-left: 10px;
   }
 }
