@@ -119,4 +119,8 @@ p {
   #contact {
       margin-bottom: 80px;
   }
+
+  .about-paragraphs p {
+      margin: 20px;
+  }
 }
