@@ -127,4 +127,8 @@ p {
   .navbar-brand {
     margin-left: 10px;
   }
+
+  .home-paragraphs, h2 {
+      text-align: center;
+  }
 }
